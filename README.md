@@ -13,10 +13,10 @@ You are designing a new, simple casino game. The idea is to earn money for the c
 
 ```
     1-1-1 = 1 * $10 = $10
-    2-2-2 = 2 * $20 = $20
-    3-3-3 = 3 * $30 = $30
-    4-4-4 = 4 * $40 = $40
-    5-5-5 = 5 * $50 = $50
+    2-2-2 = 2 * $10 = $20
+    3-3-3 = 3 * $10 = $30
+    4-4-4 = 4 * $10 = $40
+    5-5-5 = 5 * $10 = $50
 
     However, rolling all 6s, yields in a mega-multiplier of 10
     6-6-6 = 10 * $10 = $100
