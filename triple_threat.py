@@ -7,8 +7,8 @@ Ori Ouaknine - Nov 2024
 import random
 
 def play_game():
-    amount_to_play = 1 
-    base_prize = 10 
+    amount_to_play = 3
+    base_prize = 17
     payout = 0 
 
     dice = [random.randint(1, 6) for _ in range(3)]
